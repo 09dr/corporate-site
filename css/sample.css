@@ -469,3 +469,19 @@ footer .foot_navi li a {
     font-size: 1.6rem;
     padding: 16px 0;
 }}
+@media (max-width: 550px){
+
+#contents #sidebar .pc_sidemenu {
+    display: none;
+}}
+@media (min-width: 550px){
+#sub_cover h2 {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-size: 3.2rem;
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: 0.2rem;
+}
+}
